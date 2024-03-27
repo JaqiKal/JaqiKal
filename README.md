@@ -19,7 +19,7 @@ I'm currently based in Sweden, diving deep into the world of full-stack developm
 
 ## 📖 What I'm Reading
 - I enjoy reading **fiction fantasy and Mystery/Thriller**, and recently I've added a new genre :)  **programming best practices**.
-- Currently diving into books and resources on **full-stack development** and **organizational managements**.
+- Currently diving into books and resources on **full-stack development**, **organizational managements** and let's not forget cheat-sheets😊.
 
 ## 🤝 Let's Connect
 Feel free to reach out if you're interested in discussing **coding**, **culture**, **health**, or just want to share a good book recommendation. I'm all ears!
