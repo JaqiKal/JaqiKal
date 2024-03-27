@@ -9,8 +9,8 @@ I'm currently based in Sweden, diving deep into the world of full-stack developm
 
 ## 🎯 Goals
 - **Passing my studies** with flying colors is my immediate focus.
-- Long-term, I really woul like to contribute to meaningful projects that **impact society positively**, merging my interests in **technology** and **sustainable living**.
-- Baby steps towards this is to gain more know-how and buil a diverse portfolio.
+- Long-term, I really would like to contribute to meaningful projects that **impact society positively**, merging my interests in **technology** and **sustainable living**.
+- Baby steps towards this is to gain more know-how and build a diverse portfolio.
 
 ## 💼 Skills
 - Proficient in **HTML**, **CSS**, passable in **JavaScript** and **Python** and working my way up the full-stack ladder.
