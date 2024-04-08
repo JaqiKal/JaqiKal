@@ -37,11 +37,11 @@ I'm currently based in Sweden, diving deep into the world of full-stack developm
 ![JEST](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
 
 ## 📖 What I'm Reading
-- I enjoy reading **fiction fantasy and Mystery/Thriller**, and recently I've added a new genre :)  **programming best practices**.
+- I enjoy reading **Biographies, Fiction fantasy and Mystery/Thriller**, and recently I've added a new genre :)  **programming best practices**.
 - Currently diving into books and resources on **full-stack development**, **organizational managements** and let's not forget cheat-sheets😊.
 
 ## 🤝 Let's Connect
-Feel free to reach out if you're interested in discussing **coding**, **culture**, **health**, or just want to share a good book recommendation. I'm all ears!
+Feel free to reach out if you're interested in discussing **coding**, **culture**, **life in genaral**, or just want to share a good book recommendation. I'm all ears!
 
 📫 How to reach me:
 - 🔗 [LinkedIn](https://www.linkedin.com/in/jacqueline-kalmar/)
