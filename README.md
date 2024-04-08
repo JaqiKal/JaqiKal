@@ -26,3 +26,8 @@ Feel free to reach out if you're interested in discussing **coding**, **culture*
 
 - 📫 How to reach me:
 - 🔗 [LinkedIn](https://www.linkedin.com/in/jacqueline-kalmar/)
+
+## ❤️ GitHub stat
+
+[![JaqiKal's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaqiKal)](https://github.com/JaqiKal/github-readme-stats) 
+<br>Credits to [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) for this great status card.
