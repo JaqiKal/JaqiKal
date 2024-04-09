@@ -1,6 +1,6 @@
 # Hej 👋, I'm Jaqi!
 
-I'm currently based in Sweden, diving deep into the world of full-stack development. My journey in coding is fueled by curiosity and interest in the interplay between technology and creativity.
+I'm based in Sweden, diving deep into the world of full-stack development. My journey in coding is fueled by curiosity and interest in the interplay between technology and creativity.
 
 ## 📘 About Me
 - 📚 I'm currently studying to become a **Full-Stack Software Developer**, aiming for merit grades and beyond. I am true noob! Having a great time learning.
