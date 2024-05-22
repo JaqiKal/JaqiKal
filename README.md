@@ -3,7 +3,7 @@
 I'm based in Sweden, diving deep into the world of full-stack development. My journey in coding is fueled by curiosity and interest in the interplay between technology and creativity.
 
 ## 📘 About Me
-- 📚 I'm currently studying to become a **Full-Stack Software Developer**, aiming for merit grades and beyond. I am true noob! Having a great time learning.
+- 📚 I'm currently studying to become a **Full-Stack Software Developer**. I am true noob! Having a great time learning.
 - 🌱 Apart from coding, I have interest in **herbs**, **reading**, and exploring different **cultures** and **communication** styles.
 - I have a passion for googling 🔧🔨 DIY project...not meaning that I actually have built anything ... yet 😊! 
 
