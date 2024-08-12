@@ -3,12 +3,12 @@
 I'm based in Sweden, diving deep into the world of full-stack development. My journey in coding is fueled by curiosity and interest in the interplay between technology and creativity.
 
 ## 📘 About Me
-- 📚 I'm currently studying to become a **Full-Stack Software Developer**. I am true noob! Having a great time learning.
+- 📚 I have a diploma as **Full-Stack Software Developer** from Code Institute, graduated June 2024.
+- I am true noob! Having a great time with continous learning.
 - 🌱 Apart from coding, I have interest in **herbs**, **reading**, and exploring different **cultures** and **communication** styles.
 - I have a passion for googling 🔧🔨 DIY project...not meaning that I actually have built anything ... yet 😊! 
 
 ## 🎯 Goals
-- **Passing my studies** with flying colors is my immediate focus.
 - Long-term, I really would like to contribute to meaningful projects that **impact society positively**, merging my interests in **technology** and **sustainable living**.
 - Baby steps towards this is to gain more know-how and build a diverse portfolio.
 
