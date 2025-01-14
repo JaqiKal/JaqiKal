@@ -34,7 +34,7 @@ I'm based in Sweden, diving deep into the world of full-stack development. My jo
 - React.js
 - TailwindCSS
   
-**Other Coding Related Skills**
+## Other Coding Related Skills
 
 ![HEROKU](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown%20-%23000000.svg?&style=for-the-badge&logo=Markdown&logoColor=FFFFFF)
