@@ -4,9 +4,9 @@ I'm based in Sweden, diving deep into the world of full-stack development. My jo
 
 ## 📘 About Me
 - 📚 I have a diploma as **Full-Stack Software Developer** from Code Institute, graduated June 2024.
-- I am true noob! Having a great time with continous learning.
+- I am having a great time with continous learning.
 - 🌱 Apart from coding, I have interest in **herbs**, **reading**, and exploring different **cultures** and **communication** styles.
-- I have a passion for googling 🔧🔨 DIY project...not meaning that I actually have built anything ... yet 😊! 
+- I have a passion for googling 🔧🔨 DIY project... 😊! 
 
 ## 🎯 Goals
 - Long-term, I really would like to contribute to meaningful projects that **impact society positively**, merging my interests in **technology** and **sustainable living**.
@@ -29,6 +29,10 @@ I'm based in Sweden, diving deep into the world of full-stack development. My jo
 <!-- [JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white) -->
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+## Current deep-dive
+- React.js
+- TailwindCSS
   
 **Other Coding Related Skills**
 
