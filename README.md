@@ -5,7 +5,7 @@ I'm based in Sweden, diving deep into the world of full-stack development. My jo
 ## 📘 About Me
 - 📚 I have a diploma as **Full-Stack Software Developer** from Code Institute, graduated June 2024.
 - I am having a great time with continous learning.
-- 🌱 Apart from coding, I have interest in **herbs**, **reading**, and exploring different **cultures** and **communication** styles.
+- 🌱 Apart from coding, I have interest in a variety of topics some of them are **history**, **logistics**, **herbs**, **reading**.
 - I have a passion for googling 🔧🔨 DIY project... 😊! 
 
 ## 🎯 Goals
